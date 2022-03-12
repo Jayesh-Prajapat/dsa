@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "Link_list.C": "cpp",
+        "link_list_Rec.C": "cpp",
+        "linked_list.C": "cpp",
+        "Stack.C": "cpp",
+        "stack.linked_list.C": "cpp",
+        "Queue.C": "cpp",
+        "Li_Li_u_class.C": "cpp",
+        "doubly_Li_Li.C": "cpp",
+        "Singly_Li_Li.C": "cpp",
+        "Li_List_recu.C": "cpp",
+        "Merge_sort.C": "cpp",
+        "Queue_Li_li.C": "cpp",
+        "stack_Li_Li.C": "cpp",
+        "Quick_sort.C": "cpp"
+    }
+}
